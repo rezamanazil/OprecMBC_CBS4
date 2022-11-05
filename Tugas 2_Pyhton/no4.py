@@ -1,3 +1,1 @@
-print("a")
-print("a")
-print("a")
+n=int(input("Masukan nilai n : "))
